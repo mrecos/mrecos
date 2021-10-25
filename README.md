@@ -1,12 +1,12 @@
 ### Hi there 👋
-My name is Matt and I write code to build tools and analysis that (hopefully) help others. I do this for work at a large engineering infrastructure company (AECOM), for students as an instructor in the PENN MUSA program, for NPOs at Mica Data Labs and along with UrbanSpatial, and for fun (when time allows). 
+My name is Matt and I write code, do analysis, and build spatial data prodcuts. I do this for work at SafeGraph which is am amazing data startup providin high quality data about the built environment. I am also an Adjust Professor in the PENN MUSA program where the best and brightest learn how to use spatial data and R to make the world a more equitable and place.
 
-Here are some ideas to get you started:
+Some of the things I have been working on:
 
-- 🔭 I’m currently working on CV19 related shiny apps, common data platforms, and the occasional ML pipeline. (mostly private repos)
-- 🌱 I’m currently learning shiny, shiny modules, and how much I don't know about JS
-- 💬 Ask me about R or using Data Science in the Engineering & Construction Industry
-- 📫 How to reach me: matthew.d.harris@aecom.com or md_harris on Twitter
+- 🔭 Currently working on some interesting PCA featurization stuff for an upcoming presentation
+- 🌱 I’m currently sharpening my skills in Scala, Sedona, and Python
+- 💬 Ask me about R or using Data Science in the Engineering & Construction Industries or generally about spatial data!
+- 📫 How to reach me: matthew@safegraph.com or md_harris on Twitter
 - 😄 Pronouns: he/him, they/them
 <!--- 
 ⚡ Fun fact: 

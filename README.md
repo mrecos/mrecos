@@ -6,7 +6,7 @@ I bridge the gap between mission-critical enterprise architecture, Quantitative 
 * **Teaching:** Adjunct Professor @ **UPenn MUSA** (Graduate Spatial ML/AI & Public Policy).
 * **Expertise:** Deep roots in **Financial Services** data products and high-performance **Snowflake** ❄️ for Financial Services.
 
-### 🛠️ My Modern Toolkit
+### 🛠️ My Tech Toolkit
 
 | Category | Tools |
 | :--- | :--- |
